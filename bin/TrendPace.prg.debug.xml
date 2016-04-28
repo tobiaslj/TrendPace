@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="31" pc="268435458" symbol="initialize"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="33" pc="268435476" symbol="initialize"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="34" pc="268435498" symbol="initialize"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="35" pc="268435511" symbol="initialize"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="36" pc="268435524" symbol="initialize"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="37" pc="268435537" symbol="initialize"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="42" pc="268435553" symbol="speedToPace"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="43" pc="268435553" symbol="speedToPace"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="45" pc="268435553" symbol="speedToPace"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="46" pc="268435564" symbol="speedToPace"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="49" pc="268435573" symbol="speedToPace"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="50" pc="268435610" symbol="speedToPace"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="52" pc="268435620" symbol="speedToPace"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="55" pc="268435627" symbol="speedToPace"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="58" pc="268435646" symbol="speedToPace"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="59" pc="268435674" symbol="speedToPace"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="64" pc="268435692" symbol="getArrayAverage"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="65" pc="268435699" symbol="getArrayAverage"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="66" pc="268435706" symbol="getArrayAverage"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="67" pc="268435713" symbol="getArrayAverage"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="69" pc="268435746" symbol="getArrayAverage"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="70" pc="268435766" symbol="getArrayAverage"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="73" pc="268435775" symbol="getArrayAverage"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="74" pc="268435799" symbol="getArrayAverage"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="75" pc="268435806" symbol="getArrayAverage"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="76" pc="268435817" symbol="getArrayAverage"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="79" pc="268435844" symbol="getArrayAverage"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="81" pc="268435851" symbol="getArrayAverage"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="82" pc="268435859" symbol="getArrayAverage"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="85" pc="268435866" symbol="getArrayAverage"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="86" pc="268435874" symbol="getArrayAverage"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="90" pc="268435894" symbol="getArrayAverage"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="91" pc="268435905" symbol="getArrayAverage"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="92" pc="268435929" symbol="getArrayAverage"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="95" pc="268435956" symbol="getArrayAverage"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="101" pc="268435986" symbol="compute"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="102" pc="268435993" symbol="compute"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="103" pc="268436000" symbol="compute"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="106" pc="268436000" symbol="compute"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="107" pc="268436011" symbol="compute"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="108" pc="268436032" symbol="compute"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="111" pc="268436065" symbol="compute"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="112" pc="268436114" symbol="compute"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="115" pc="268436123" symbol="compute"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="116" pc="268436134" symbol="compute"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="117" pc="268436164" symbol="compute"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="118" pc="268436205" symbol="compute"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="119" pc="268436235" symbol="compute"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="120" pc="268436265" symbol="compute"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="121" pc="268436295" symbol="compute"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="122" pc="268436325" symbol="compute"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="125" pc="268436358" symbol="compute"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="126" pc="268436383" symbol="compute"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="128" pc="268436402" symbol="compute"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="129" pc="268436427" symbol="compute"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="131" pc="268436446" symbol="compute"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="132" pc="268436466" symbol="compute"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="135" pc="268436482" symbol="compute"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="136" pc="268436502" symbol="compute"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="139" pc="268436518" symbol="compute"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="140" pc="268436538" symbol="compute"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="143" pc="268436560" symbol="compute"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="144" pc="268436580" symbol="compute"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="146" pc="268436599" symbol="compute"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="151" pc="268436608" symbol="compute"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="154" pc="268436629" symbol="compute"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="158" pc="268436644" symbol="compute"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="161" pc="268436665" symbol="compute"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="164" pc="268436680" symbol="compute"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="165" pc="268436694" symbol="compute"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="167" pc="268436712" symbol="compute"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="169" pc="268436736" symbol="compute"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="171" pc="268436754" symbol="compute"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="173" pc="268436764" symbol="compute"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="176" pc="268436771" symbol="compute"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="177" pc="268436782" symbol="compute"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="178" pc="268436820" symbol="compute"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="181" pc="268436864" symbol="compute"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="182" pc="268436875" symbol="compute"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceView.mc" lineNum="184" pc="268436887" symbol="compute"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceApp.mc" lineNum="6" pc="268436910" symbol="initialize"/>
+<entry filename="C:\\Users\\Tobias Ljunggren\\eclipse_workspace\\TrendPace\\source\\TrendPaceApp.mc" lineNum="19" pc="268436937" symbol="getInitialView"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388644" module="true" symbol="System"/>
+<entry id="10" module="true" symbol="Menus"/>
+<entry field="true" id="13" symbol="AppName"/>
+<entry field="true" id="12" symbol="LauncherIcon"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry field="true" id="20" symbol="trendArray"/>
+<entry id="11" module="true" symbol="Layouts"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="15" symbol="build"/>
+<entry field="true" id="22" symbol="trendIndex"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="14" symbol="version"/>
+<entry field="true" id="18" symbol="averageArray"/>
+<entry id="8" object="true" symbol="TrendPaceView"/>
+<entry id="8388641" module="true" symbol="Math"/>
+<entry id="25" method="true" symbol="speedToPace"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry id="8389137" method="true" symbol="compute"/>
+<entry id="26" method="true" symbol="getArrayAverage"/>
+<entry field="true" id="19" symbol="trendPeriod"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry field="true" id="21" symbol="averageIndex"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry field="true" id="24" symbol="trendReadings"/>
+<entry id="9" object="true" symbol="TrendPaceApp"/>
+<entry field="true" id="16" symbol="debug"/>
+<entry field="true" id="23" symbol="averageReadings"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry field="true" id="17" symbol="averagePeriod"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435689" name="minutes" stackId="2" startPc="268435553"/>
+<entry endPc="268435689" name="distance" stackId="3" startPc="268435553"/>
+<entry endPc="268435894" name="i" stackId="6" startPc="268435799"/>
+<entry endPc="268435983" name="low" stackId="5" startPc="268435692"/>
+<entry endPc="268435983" name="high" stackId="4" startPc="268435692"/>
+<entry endPc="268435983" name="avg" stackId="3" startPc="268435692"/>
+<entry endPc="268435983" name="z" stackId="2" startPc="268435692"/>
+<entry endPc="268436907" name="trend" stackId="4" startPc="268435986"/>
+<entry endPc="268436907" name="trendPace" stackId="3" startPc="268435986"/>
+<entry endPc="268436907" name="averagePace" stackId="2" startPc="268435986"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="TrendPaceView">
+<documentation><![CDATA[<div class="description"> Set the label of the data field here.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="speedToPace" parent="TrendPaceView">
+<param id="speed"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getArrayAverage" parent="TrendPaceView">
+<param id="arr"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="compute" parent="TrendPaceView">
+<param id="info"/>
+<documentation><![CDATA[<div class="description"> The given info object contains all the current workout<br/> information. Calculate a value and return it in this method.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="initialize" parent="TrendPaceApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="TrendPaceApp">
+<documentation><![CDATA[<div class="description"> onStart() is called on application start up<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onStop" parent="TrendPaceApp">
+<documentation><![CDATA[<div class="description"> onStop() is called when your application is exiting<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="getInitialView" parent="TrendPaceApp">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>
