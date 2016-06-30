@@ -1,3 +1,33 @@
 <strings>
-    <string id="AppName">TrendPace</string>
+    <string id="appName">Average Trend Pace</string>
+    <string id="appVersionTitle">Version</string>
+    <string id="appNameTitle">Name</string>
+    <string id="averageTimePeriodTitle">Time period for average pace</string>
+    <string id="averageTimePeriodPrompt">Select the period of time (in seconds) used to calculate the average pace.</string>
+    <string id="trendTimePeriodTitle">Time period for trend pace</string>
+    <string id="trendTimePeriodPrompt">Select the period of time (in seconds) used to get the trend.</string>
+    <string id="paceMethodTitle">Pace calculation method</string>
+    <string id="paceMethodPrompt">Select the method that should be used to calculate average pace.</string>
+    <string id="trimmedAverageTitle">Trimmed average</string>
+    <string id="trimmedAveragePrompt">Select if the average should be trimmed or not (remove highest and lowest).</string>
+    <string id="debugTitle">Debug mode</string>
+    <string id="debugPrompt">Set to true to enable debug output to app log file.</string>
+    
+    <string id="FiveSeconds">Five seconds</string>
+    <string id="TenSeconds">Ten seconds</string>
+    <string id="TwentySeconds">Twenty seconds</string>
+    <string id="ThirtySeconds">Thirty seconds</string>
+    <string id="FourtySeconds">Fourty seconds</string>
+    <string id="FiftySeconds">Fifty seconds</string>
+    <string id="SixtySeconds">Sixty seconds</string>
+    
+    <string id="AverageSpeed">Average of every single speed reading during time period</string>
+    <string id="AverageDistance">Average of every delta distance during time period</string>
+    <string id="TotalDistance">Total distance over time period</string>
+    <string id="Yes">Yes</string>
+    <string id="No">No</string>
+    
+    <string id="DebugOff">None</string>
+    <string id="DebugMin">Min</string>
+    <string id="DebugMax">Max</string>
 </strings>

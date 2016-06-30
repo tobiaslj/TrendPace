@@ -1,0 +1,54 @@
+<settings>
+
+    <setting propertyKey="@Properties.appVersion" title="@Strings.appVersionTitle">
+        <settingConfig type="alphaNumeric" readonly="true" />
+    </setting>
+    
+    <setting propertyKey="@Properties.appName" title="@Strings.appNameTitle">
+        <settingConfig type="alphaNumeric" readonly="true" />
+    </setting>
+
+    <setting propertyKey="@Properties.averageTimePeriod" title="@Strings.averageTimePeriodTitle" prompt="@Strings.averageTimePeriodPrompt">
+        <settingConfig type="list">
+            <listEntry value="10">@Strings.TenSeconds</listEntry>
+            <listEntry value="20">@Strings.TwentySeconds</listEntry>
+            <listEntry value="30">@Strings.ThirtySeconds</listEntry>
+            <listEntry value="40">@Strings.FourtySeconds</listEntry>
+            <listEntry value="50">@Strings.FiftySeconds</listEntry>
+            <listEntry value="60">@Strings.SixtySeconds</listEntry>
+        </settingConfig>
+    </setting>
+    
+    <setting propertyKey="@Properties.trendTimePeriod" title="@Strings.trendTimePeriodTitle" prompt="@Strings.trendTimePeriodPrompt">
+        <settingConfig type="list">
+            <listEntry value="5">@Strings.FiveSeconds</listEntry>
+            <listEntry value="10">@Strings.TenSeconds</listEntry>
+            <listEntry value="20">@Strings.TwentySeconds</listEntry>
+            <listEntry value="30">@Strings.ThirtySeconds</listEntry>
+        </settingConfig>
+    </setting>
+
+    <setting propertyKey="@Properties.paceMethod" title="@Strings.paceMethodTitle" prompt="@Strings.paceMethodPrompt">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.AverageSpeed</listEntry>
+            <listEntry value="1">@Strings.AverageDistance</listEntry>
+            <listEntry value="2">@Strings.TotalDistance</listEntry>
+        </settingConfig>
+    </setting>
+    
+    <setting propertyKey="@Properties.trimmedAverage" title="@Strings.trimmedAverageTitle" prompt="@Strings.trimmedAveragePrompt">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.No</listEntry>
+            <listEntry value="1">@Strings.Yes</listEntry>
+        </settingConfig>
+    </setting>
+    
+    <setting propertyKey="@Properties.debug" title="@Strings.debugTitle" prompt="@Strings.debugPrompt">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.DebugOff</listEntry>
+            <listEntry value="1">@Strings.DebugMin</listEntry>
+            <listEntry value="2">@Strings.DebugMax</listEntry>
+        </settingConfig>
+    </setting>
+
+</settings>

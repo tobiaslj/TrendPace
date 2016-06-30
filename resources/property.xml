@@ -1,0 +1,9 @@
+<properties>
+    <property id="appVersion" type="string">1.0.1</property>
+    <property id="appName" type="string">Average Trend Pace</property>
+    <property id="averageTimePeriod" type="number">30</property>
+    <property id="trendTimePeriod" type="number">10</property>
+    <property id="paceMethod" type="number">0</property>
+    <property id="trimmedAverage" type="number">0</property>
+    <property id="debug" type="number">0</property>
+</properties>
